@@ -11,4 +11,6 @@ public class Role {
     private String code;
 
     private String name;
+    
+    private String test;
 }

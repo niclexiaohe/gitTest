@@ -9,4 +9,6 @@ package com.hc.gitTest.entity;
 public class Role {
 
     private String code;
+
+    private String name;
 }

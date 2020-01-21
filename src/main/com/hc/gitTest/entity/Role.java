@@ -12,5 +12,5 @@ public class Role {
 
     private String name;
     
-    private String test111;
+    private String test;
 }

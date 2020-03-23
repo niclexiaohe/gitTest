@@ -9,7 +9,4 @@ package com.hc.gitTest.entity;
 public class User {
 
     private String name;
-
-    private String master;
-    private String dev;
 }

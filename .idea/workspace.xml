@@ -17,16 +17,7 @@
         <entry file="file://$PROJECT_DIR$/test">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test2">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -85,7 +76,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584955415454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584955667260" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584940908185</updated>
       <workItem from="1584940909488" duration="649000" />
-      <workItem from="1584951988278" duration="3362000" />
+      <workItem from="1584951988278" duration="3615000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1584941304815</created>
@@ -287,11 +278,32 @@
       <option name="project" value="LOCAL" />
       <updated>1584955380987</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="======清空======">
+      <created>1584955422852</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1584955422852</updated>
+    </task>
+    <task id="LOCAL-00027" summary="22">
+      <created>1584955454647</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1584955454647</updated>
+    </task>
+    <task id="LOCAL-00028" summary="======清空=====">
+      <created>1584955655730</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1584955655730</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6044000" />
+    <option name="totallyTimeSpent" value="6297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -379,7 +391,10 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="======清空======" />
-    <option name="LAST_COMMIT_MESSAGE" value="======清空======" />
+    <MESSAGE value="22" />
+    <MESSAGE value="Revert &quot;======清空======&quot;&#10;&#10;This reverts commit eada441e3852b67bb1df1aaa16b742991f4cb5c1.&#10;&#10;# Conflicts:&#10;#&#9;test" />
+    <MESSAGE value="======清空=====" />
+    <option name="LAST_COMMIT_MESSAGE" value="======清空=====" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/com/hc/gitTest/entity/User.java" />
@@ -404,7 +419,7 @@
     <entry file="file://$PROJECT_DIR$/test">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -1,2 +1,10 @@
+/target/
+.classpath
+/.settings/
+.project
 .idea/
-*.xml
+logs/
+victoriassecret-web/src/main/resources/application-local-pord.yml
+
+*.iml
+*.log
